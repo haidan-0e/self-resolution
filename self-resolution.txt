@@ -4,5 +4,5 @@ SELF RESOLUTION
 -consistently working on many project every day
 
 
--this git for portfolio
+
 -make it many portfolio
