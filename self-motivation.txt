@@ -1,6 +1,9 @@
 -learnframework
 -learn java
 -learn phyton
+-learn frond end
+  ^css
+  ^html
 
 -dont be weakness
 -dont see time 
