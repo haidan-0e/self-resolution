@@ -2,9 +2,10 @@
   ^ aungular
   ^ react
 -learn phyton
-  ^ don't worry
-  ^ laravel
-
+-learn frond end
+  ^ css
+  ^ html
+  ^ react
 
 -dont be weakness
 -dont see time 
