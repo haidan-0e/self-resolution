@@ -2,8 +2,9 @@
 -learn java
 -learn phyton
 -learn frond end
-  ^css
-  ^html
+  ^ css
+  ^ html
+  ^ react
 
 -dont be weakness
 -dont see time 
