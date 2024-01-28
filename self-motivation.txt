@@ -1,5 +1,6 @@
 -learnframework
 -learn java
+-learn phyton
 
 -dont be weakness
 -dont see time 
